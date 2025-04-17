@@ -16,7 +16,7 @@
  <div style="flex: 1 1 200px; text-align: center;">
     <img src="assets/imgs/Scardelli.jpeg" alt="Gabriel Scarduelli" width="100" style="border-radius: 50%"/><br/>
     <strong>Gabriel Scarduelli</strong><br/>
-    <a href="https://github.com/usuario_scarduelli" target="_blank">GitHub</a>
+    <a href="https://github.com/BielScard" target="_blank">GitHub</a>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://media.licdn.com/dms/image/v2/D4E35AQFboi96-GFn_w/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1713534933422?e=1745539200&v=beta&t=Vh91j-T7zl4LFiqlUnH4_5p9iFO3OPAB1tL0Ru-9b8I" alt="Gabriel Almeida" width="100" style="border-radius: 50%"/><br/>
@@ -26,12 +26,12 @@
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="assets/imgs/Macolla.jpeg" alt="Gabriel Macolla" width="100" style="border-radius: 50%"/><br/>
     <strong>Gabriel Macolla</strong><br/>
-    <a href="https://github.com/usuario_macolla" target="_blank">GitHub</a>
+    <a href="https://github.com/GabrielMacolla" target="_blank">GitHub</a>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="assets/imgs/Maggi.jpeg" alt="Joao Maggi" width="100" style="border-radius: 50%"/><br/>
     <strong>João Maggi</strong><br/>
-    <a href="https://github.com/usuario_joao" target="_blank">GitHub</a>
+    <a href="https://github.com/joaomaggi03" target="_blank">GitHub</a>
   </div>
 </div>
 
