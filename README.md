@@ -1,10 +1,13 @@
-# FluidosBons-2025.1
- Desenvolvimento ágil 2025-01
-![Logo](Prototipação/image.jpg)
-Victor Fares 
- Gabriel Scarduelli
- Gabriel Almeida
- Gabriel Macolla
- Joao Maggi
+# **FluidosBons-2025.1**
 
- 
+📅 Desenvolvimento Ágil – Janeiro 2025  
+👨‍💻 Equipe:
+- Victor Fares  
+- Gabriel Scarduelli  
+- Gabriel Almeida  
+- Gabriel Macolla  
+- Joao Maggi  
+
+---
+
+![Logo](Prototipação/image.jpg)
