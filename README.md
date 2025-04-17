@@ -10,4 +10,6 @@
 
 ---
 
-![Logo](Prototipação/image.jpg)
+<p align="center">
+  <img src="Prototipação/image.jpg" alt="Logo" width="300"/>
+</p>
