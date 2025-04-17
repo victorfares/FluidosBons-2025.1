@@ -1,6 +1,6 @@
 # **FluidosBons-2025.1**
 <p align="center">
-  <img src="Prototipação/image.jpg" alt="Logo" width="300"/>
+  <img src="assets/imgs/image.jpg" alt="Logo" width="300"/>
 </p>
 
 
