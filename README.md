@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e9a06863-a329-4ae8-a61e-9d288b28fe40)# **FluidosBons-2025.1**
+## **FluidosBons-2025.1**
 <p align="center">
   <img src="assets/imgs/image.jpg" alt="Logo" width="300"/>
 </p>
