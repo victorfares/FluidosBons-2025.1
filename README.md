@@ -37,7 +37,11 @@
 
 ## 1. Visão Geral do Sistema
 
-O sistema deverá servir como forma de organização para um projeto de extensão da UTFPR-CP chamado “Bons Fluidos”. Quando pronto, ele deverá agilizar a coordenação de voluntários, beneficiados, estoques, doações, palestras, entre outras atividades do projeto.
+A landing page do projeto "Bons Fluidos" tem como objetivo apresentar de forma clara, visual e acessível as principais informações sobre o projeto de extensão da UTFPR-CP. 
+
+Ela será uma página inicial pública, voltada para o público geral, interessados em conhecer a iniciativa, sua missão, objetivos, atividades realizadas e formas de contato. A página incluirá seções como "Sobre o projeto", imagens ilustrativas, descrição das ações promovidas, além de dados para contato e links para redes sociais oficiais.
+
+O design será responsivo, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops, e seguirá a identidade visual do projeto.
 
 
 
