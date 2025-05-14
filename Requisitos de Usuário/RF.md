@@ -1,19 +1,11 @@
-## 2. Requisitos Funcionais
-
 | Identificador | Descrição                                                                 | Prioridade |
 |---------------|---------------------------------------------------------------------------|------------|
-| RF01          | O sistema deve registrar colaboradores                                     | alta       |
-| RF02          | O sistema deve registrar beneficiados                                     | alta       |
-| RF03          | O sistema deve registrar um administrador                                 | alta       |
-| RF04          | O sistema deve manter um controle do estoque                              | alta       |
-| RF05          | O sistema deve registrar locais/horários                                  | alta       |
-| RF06          | O sistema deve controlar locais/horários                                  | alta       |
-| RF07          | O sistema conter uma ferramenta de lembretes (email)                      | média      |
-| RF08          | O sistema deve conter um controle de itens distribuídos                   | média      |
-| RF09          | O sistema deve imprimir um relatório do estoque                           | baixa      |
-| RF010         | O sistema deve ter uma função de buscar pessoas                           | alta       |
-| RF011         | O sistema deve demonstrar as informações do perfil escolhido              | alta       |
-| RF012         | O sistema deve possuir uma área de cadastro/login                         | alta       |
-| RF013         | O sistema deverá ter opção de doação                                      | alta       |
-| RF014         | O sistema deve fornecer os contatos                                       | alta       |
-| RF015         | O sistema deve ter uma partição contendo o calendário de atividades       | média      |
+| LP_RF01       | A landing page deve exibir o nome e logotipo do projeto                   | alta       |
+| LP_RF02       | A landing page deve conter uma seção “Sobre o projeto”                    | alta       |
+| LP_RF03       | A landing page deve exibir imagens ilustrativas do projeto                | alta       |
+| LP_RF04       | A landing page deve ter uma seção com os principais objetivos do projeto  | alta       |
+| LP_RF05       | A landing page deve apresentar os tipos de atividades realizadas          | alta       |
+| LP_RF06       | A landing page deve ter uma área de contatos (e-mail, telefone, redes)    | alta       |
+| LP_RF07       | A landing page deve conter links para as redes sociais                    | alta       |
+| LP_RF08       | A landing page deve ser responsiva para diferentes tamanhos de tela       | alta       |
+| LP_RF09       | A landing page deve conter um rodapé com informações institucionais       | média      |
