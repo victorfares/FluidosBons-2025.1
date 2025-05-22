@@ -43,5 +43,8 @@ Ela será uma página inicial pública, voltada para o público geral, interessa
 
 O design será responsivo, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops, e seguirá a identidade visual do projeto.
 
+## 2. Prototipaçãp do Sistema
 
+Clique no Link a seguir para acessar o Figma da landing page :
 
+ <a href="https://www.figma.com/design/i7CB22a4EzAoLN0ShYlTOI/Sem-título?node-id=0-1&p=f" target="_blank">Figma</a>
