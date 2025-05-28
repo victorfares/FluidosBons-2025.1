@@ -1,9 +1,9 @@
-| Identificador | Descrição                                                                 | Prioridade |
-|---------------|---------------------------------------------------------------------------|------------|
-| LP_RNF01      | A landing page deve ser responsiva em dispositivos desktop, tablet e mobile| alta      |
-| LP_RNF02      | A landing page deve carregar completamente em até 3 segundos              | alta       |
-| LP_RNF03      | A landing page deve ser acessível (uso de contraste, alt nas imagens etc.)| alta       |
-| LP_RNF04      | O layout deve seguir a identidade visual do projeto (cores, tipografia)   | alta       |
-| LP_RNF05      | O código-fonte da landing page deve seguir boas práticas de HTML/CSS      | média      |
-| LP_RNF06      | A página deve estar otimizada para mecanismos de busca (SEO)              | média      |
-| LP_RNF07      | As imagens devem estar comprimidas para web sem perda visível             | média      |
+| Identificador | Descrição                                                                                                                                                                        | Prioridade |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| LP_RNF01      | A landing page deve ser responsiva em dispositivos desktop, tablet e mobile.                                                                                                     | alta       |
+| LP_RNF02      | A landing page deve carregar completamente em até 3 segundos.                                                                                                                    | alta       |
+| LP_RNF03      | A landing page deve ser acessível conforme as Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.1 nível AA, garantindo contraste adequado e uso de texto alternativo nas imagens. | alta       |
+| LP_RNF04      | O layout deve seguir rigorosamente a identidade visual do projeto, incluindo definições de cores, tipografia e espaçamento estabelecidos no guia de estilo oficial.               | alta       |
+| LP_RNF05      | O código-fonte da landing page deve seguir as boas práticas definidas pelo W3C e a especificação HTML Living Standard, bem como adotar o padrão de codificação interno da equipe. | média      |
+| LP_RNF06      | A página deve estar otimizada para mecanismos de busca (SEO), incluindo o uso de meta tags descritivas, títulos hierarquizados e URLs amigáveis.                      | média      |
+| LP_RNF07      | As imagens devem ser comprimidas utilizando o formato WebP, garantindo equilíbrio entre qualidade visual e desempenho.                                 | média      |
