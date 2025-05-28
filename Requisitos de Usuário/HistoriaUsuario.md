@@ -1,11 +1,11 @@
-| História de Usuário | Requisito Funcional Referenciado | Story Points |
-|---------------------|----------------------------------|--------------|
-| HU01                | LP_RF01                          | 0            |
-| HU02                | LP_RF02                          | 4            |
-| HU03                | LP_RF03                          | 2            |
-| HU04                | LP_RF04                          | 2            |
-| HU05                | LP_RF05                          | 3            |
-| HU06                | LP_RF06                          | 1            |
-| HU07                | LP_RF07                          | 2            |
-| HU08                | LP_RF08                          | 13           |
-| HU09                | LP_RF09                          | 1            |
+| História de Usuário | Descrição                                                                                                                                                      | Requisito Funcional Referenciado | Story Points |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|--------------|
+| HU01                | Como visitante da página, quero visualizar claramente o nome e o logotipo do projeto, para que eu possa reconhecer imediatamente a identidade do "Bons Fluidos". | LP_RF01                          | 0            |
+| HU02                | Como pessoa interessada no projeto, quero ler uma descrição concisa sobre o propósito e funcionamento do projeto, para que eu entenda seus objetivos e impacto social. | LP_RF02                          | 4            |
+| HU03                | Como visitante visual, quero ver imagens ilustrativas das ações do projeto, para que eu tenha uma ideia mais concreta das atividades realizadas.                | LP_RF03                          | 2            |
+| HU04                | Como cidadão interessado, quero conhecer os principais objetivos e áreas de atuação do projeto, para que eu possa avaliar sua relevância e abrangência.         | LP_RF04                          | 2            |
+| HU05                | Como possível voluntário ou apoiador, quero ver os tipos de atividades que o projeto realiza, para que eu possa saber como posso contribuir ou participar.       | LP_RF05                          | 3            |
+| HU06                | Como visitante que deseja mais informações, quero encontrar facilmente as formas de contato, para que eu possa tirar dúvidas ou me comunicar com os organizadores. | LP_RF06                          | 1            |
+| HU07                | Como usuário de redes sociais, quero acessar rapidamente os perfis do projeto, para que eu possa acompanhar novidades e interações nas plataformas que uso.     | LP_RF07                          | 2            |
+| HU08                | Como usuário de celular ou tablet, quero acessar a landing page com boa visualização e usabilidade, para que eu navegue confortavelmente de qualquer dispositivo. | LP_RF08                          | 13           |
+| HU09                | Como visitante curioso, quero encontrar informações institucionais no rodapé, para que eu saiba quem está por trás do projeto e onde ele está sediado.           | LP_RF09                          | 1            |
